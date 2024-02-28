@@ -18,7 +18,7 @@ Google Colab Link Works with GPU for free : [![Patreon](https://colab.research.g
 ## Example Resources and More Help
 Resources shared on Patreon : https://www.patreon.com/posts/1-click-deepfake-83785289
 
-Stable Diffusion tutorials : https://github.com/FurkanGozukara/Stable-Diffusion
+Stable Diffusion tutorials : https://github.com/Digitaneo/Stable-Diffusion
 
 ## Prerequisites
 
